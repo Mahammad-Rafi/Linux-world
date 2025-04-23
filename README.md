@@ -4,6 +4,8 @@ Part I- “Power ON” to “Loading Kernel”
 
 ## Overview of Part 1: 
 
+![Local Image](.)
+
 <small>This text will be smaller.</small>
 
 **Step** 1- BIOS or UEFI firmware loads first
