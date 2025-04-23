@@ -5,6 +5,7 @@ Part I- “Power ON” to “Loading Kernel”
 ## Overview of Part 1: 
 
 <small>This text will be smaller.</small>
+
 **Step** 1- BIOS or UEFI firmware loads first
 When we power the PC, the BIOS (stored on the Motherboard) loads into RAM. The purpose of BIOS is to load the Operating System or Kernel into RAM.
 
