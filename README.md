@@ -37,6 +37,8 @@ npm install
 # Run the app
 npm start
 
+```
+
 ## Overview of Part 1: 
 
 ![Local Image](.)
