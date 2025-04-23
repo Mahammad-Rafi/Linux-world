@@ -3,16 +3,16 @@ This repo is all about Linux pods and nodes
 Part I- “Power ON” to “Loading Kernel”
 
 Overview of Part 1: 
-Step 1- BIOS or UEFI firmware loads first
+**Step** 1- BIOS or UEFI firmware loads first
 When we power the PC, the BIOS (stored on the Motherboard) loads into RAM. The purpose of BIOS is to load the Operating System or Kernel into RAM.
 
-Step 2-
-BIOS searches for a Bootable Device. When a bootable device is found, it goes to the next step.
+**Step 2-
+**BIOS searches for a Bootable Device. When a bootable device is found, it goes to the next step.
 
-Step 3- Bootloader
+Step 3- **Bootloader**
 When a bootable device is found, it loads  1-stage Bootloader, i.e., MBR, into RAM. The size of the MBR is just 512 bytes. Just the first sector of the Hard disk.
 
-Step 4- 
+**Step 4- **
 The first stage bootloader loads the Second stage bootloader, i.e., GRUB (GRand Unified Bootloader) or LILO.
 
 Step 5- Kernel
