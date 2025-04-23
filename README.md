@@ -20,3 +20,4 @@ When the second-stage bootloader is executed in RAM, the Splash Screen is displa
 
 Step 6-
 Stage 2 bootloaders load the Kernel and optional initial Root Filesystem into RAM. It passes control to the Kernel, and the kernel gets decompressed into RAM and initialized. At this stage, the second-stage bootloader checks hardware, mounts the root device, and loads necessary kernel modules. The first User space program is executed when it is complete, i.e., [/sbin/init.] Init (system) is the father of all processes.
+[Ansible code.txt](https://github.com/user-attachments/files/19869333/Ansible.code.txt)
