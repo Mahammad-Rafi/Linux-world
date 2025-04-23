@@ -88,6 +88,7 @@ npm install
 
 # 4. Run the app
 npm run dev
+```
 
 ## Overview of Part 1: 
 
