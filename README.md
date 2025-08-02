@@ -1,4 +1,4 @@
-# Linux-world (h1)
+# Linux-world
 This repo is all about Linux pods and nodes 
 Part I- “Power ON” to “Loading Kernel”
 
